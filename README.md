@@ -3,7 +3,7 @@
 ## Installation
 Application requires at least Python version 3.9.2
 
-Download binary
+Download binary  
 ```wget https://github.com/DeviC3/socketinfo/releases/download/latest/socketinfo```  
 or  
 ```curl -LJO https://github.com/DeviC3/socketinfo/releases/download/latest/socketinfo```
